@@ -20,7 +20,7 @@ if (window.top !== window.self) {
 }
 
 function updateImage() {
-    overlayImage.src = "https://cdn.discordapp.com/attachments/1132408210314252408/1132590575800033350/Overlay_von_VC3_aktuell.png?" + Date.now()
+    overlayImage.src = "https://cdn.discordapp.com/attachments/1132408210314252408/1133120248791433236/Overlay_akteull_24.07.png?" + Date.now()
 }
 
-setInterval(function () {overlayImage.src = "https://cdn.discordapp.com/attachments/1132408210314252408/1132590575800033350/Overlay_von_VC3_aktuell.png?" + Date.now()}, 30000);
+setInterval(function () {overlayImage.src = "https://cdn.discordapp.com/attachments/1132408210314252408/1133120248791433236/Overlay_akteull_24.07.png?" + Date.now()}, 30000);
